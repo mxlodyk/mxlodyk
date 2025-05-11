@@ -8,8 +8,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=mxlodyk" />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mxlodyk&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
